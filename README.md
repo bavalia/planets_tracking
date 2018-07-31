@@ -17,6 +17,8 @@ http://omniweb.gsfc.nasa.gov/coho/helios/plan_des.html
   
 To Run the Script: python main_planets_track.py
 
+Control Keys for Navigation: left/right -> days change, up/down -> months change, enter -> go to today
+
   
 ![Alt text](track_plot.png?raw=true "Plantes_Tracking")
   
